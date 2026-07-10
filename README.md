@@ -17,4 +17,5 @@ Vicentetech
 ## Fecha
 
 09/07/2026
+Corrige errores ortográficos en el README
 
