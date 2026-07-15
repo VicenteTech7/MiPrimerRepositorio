@@ -25,3 +25,5 @@ Corrige errores ortográficos en el README
 # Práctica de ramas
 
 Este cambio solo existe en la practica de ramas
+# Prática de ramas 2
+Este cambio solo existe en la práctica 2 de ramas
