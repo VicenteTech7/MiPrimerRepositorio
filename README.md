@@ -18,3 +18,9 @@ Vicentetech
 
 09/07/2026
 
+# Práctica de git diff
+
+
+# Práctica de ramas
+
+Este cambio solo existe en la practica de ramas
