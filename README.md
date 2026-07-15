@@ -1,6 +1,6 @@
 # MiPrimerRepositorio
 
-Este rpositorio forma parte de mi formacion en cyberseguridad
+Este repositorio forma parte de mi formacion en cyberseguridad
 
 ## Objetivos
 
